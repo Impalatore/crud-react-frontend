@@ -1,6 +1,6 @@
 import React from 'react'
 
-function AddProducto() {
+const AddProducto = () => {
     return (
         <div className="flex max-w-2xl shadow border-b mx-auto">
             <div className="px-8 py-8">
